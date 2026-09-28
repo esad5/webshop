@@ -1,3 +1,22 @@
+## GitHub Pages Deployment (Static Shop)
+
+This repository now includes a static version of the shop in `docs/index.html` so it can be hosted on GitHub Pages.
+
+To publish:
+
+1. Open repository **Settings** -> **Pages**
+2. Under **Build and deployment**, choose:
+   - **Source:** `Deploy from a branch`
+   - **Branch:** `main`
+   - **Folder:** `/docs`
+3. Save and wait about 1-2 minutes.
+
+Site URL format:
+
+- `https://esad5.github.io/webshop/`
+
+Note: The `docs` version is static (no Laravel/PHP backend). It sends order form submissions directly to email via FormSubmit.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
