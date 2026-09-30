@@ -156,6 +156,38 @@
                         </div>
                     </div>
                 </article>
+
+
+
+                <article class="product-card" data-product-id="tece-tipka-bijela" data-product="TECE WC Tipka - Bijela">
+                    <div class="product-image">
+                        <img src="images/slika3vjesalica.jpg" alt="Bijelo kupatilo s čistim, minimalističkim detaljima" loading="lazy">
+                    </div>
+                    <div class="product-info">
+                        <h3>Revizije</h3>
+                        <p class="product-description">Kompletan set </p>
+                        <div class="product-bottom">
+                            <span class="price">40KM</span>
+                            <span class="discount">Dostupno uskoro</span>
+                           // <button class="add-button" type="button">Dodaj u korpu</button>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="product-card" data-product-id="tece-tipka-bijela" data-product="TECE WC Tipka - Bijela">
+                    <div class="product-image">
+                        <img src="images/slika3vjesalica.jpg" alt="Bijelo kupatilo s čistim, minimalističkim detaljima" loading="lazy">
+                    </div>
+                    <div class="product-info">
+                        <h3>Šabloni + žica za rezanje</h3>
+                        <p class="product-description">Kompletan set </p>
+                        <div class="product-bottom">
+                            <span class="price">50KM</span>
+                            <span class="discount">Dostupno uskoro</span>
+                           // <button class="add-button" type="button">Dodaj u korpu</button>
+                        </div>
+                    </div>
+                </article>
             </div>
         </section>
 
